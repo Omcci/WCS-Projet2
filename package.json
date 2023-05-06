@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "gh-pages": "^5.0.0",
     "react-spinners": "^0.13.8",
     "sass": "^1.62.0",
     "swiper": "^9.2.4"
