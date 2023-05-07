@@ -29,11 +29,11 @@
     "concurrently": "^7.6.0",
     "cross-env": "^7.0.3",
     "eslint-import-resolver-webpack": "^0.13.2",
+    "gh-pages": "^5.0.0",
     "husky": "^8.0.3"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "gh-pages": "^5.0.0",
     "react-spinners": "^0.13.8",
     "sass": "^1.62.0",
     "swiper": "^9.2.4"
